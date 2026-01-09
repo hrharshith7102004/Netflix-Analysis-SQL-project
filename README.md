@@ -32,7 +32,7 @@ This project contains SQL queries analyzing the Netflix dataset (`netflix_titles
 Dataset
 The data for this project is sourced from the Kaggle dataset:
 
-Dataset Link: Movies Dataset
+Dataset Link: Movies Dataset-https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
 Findings and Conclusion
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
